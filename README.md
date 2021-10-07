@@ -89,7 +89,7 @@ estas lineas debera ser copiado y pegado despues de la palabra profiles, respeta
                 "useAcrylic": true
             },
             {
-                "acrylicOpacity": 0.39999999999999997,
+                "acrylicOpacity": 0.3,
                 "backgroundImage": "c:/terminal/terminal.jpg",
                 "backgroundImageOpacity": 0.2,
                 "commandline": "cmd.exe",
