@@ -14,7 +14,7 @@
 
 ## profile.ps1
 
-```
+```bash
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-PoshPrompt -Theme agnoster
@@ -60,7 +60,7 @@ if (-Not (Test-Path Variable:Psise)){
 
 estas lineas debera ser copiado y pegado despues de la palabra profiles, respetando las llaves.
 
-```
+```json
 
     "profiles": 
     {
